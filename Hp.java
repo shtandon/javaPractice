@@ -7,5 +7,6 @@ public class PracticeHP {
 		System.out.println("Ron weasely");
 		
 	}
+	wrong data
 
 }
