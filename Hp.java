@@ -4,6 +4,8 @@ public class PracticeHP {
 		// TODO Auto-generated method stub
 	
 		System.out.println("harry potter");
+		System.out.println("Ron weasely");
+		
 	}
 
 }
