@@ -5,6 +5,7 @@ public class PracticeHP {
 	
 		System.out.println("harry potter");
 		System.out.println("Ron weasely");
+		System.out.println("granger");
 		
 	}
 
